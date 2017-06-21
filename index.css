@@ -1,0 +1,21 @@
+body{background-color: #efefef;color: #522a06}
+.title{font-size: 50px;text-align: center;color: blue;}
+.mp{float: right;}
+a:link{text-decoration: none;color: black;}
+a:hover{color: red;text-decoration: underline;}
+.banner{background-image: url(15.jpg); color: black;font-size: 30px;text-align: center;}
+.mbx{font-weight: bolder;}
+.ss{float: right;margin-bottom: 2px;}
+.content{margin: 0 auto;}
+.left{float: left;width: 600px;margin-left: 150px;}
+.left img{width: 200px;height: 130px;margin: 5px;}
+.left p{text-indent: 2em;}
+.right{float: left;width: 350px;margin-left: 20px;}
+.shang{background-image: url(11.jpg);height: 200px;color: blue;}
+.shang a{color:blue;}
+.shang a:hover{color: black;font-weight: bolder;}
+.xia{background-image: url(4.jpg);height: 230px;}
+.xia a{color: purple;}
+.xia a:hover{color: red;font-weight: bolder;}
+.bottom{color: white;}
+		

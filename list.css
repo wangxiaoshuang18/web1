@@ -1,0 +1,20 @@
+body{background-color: #efefef;color: #522a06;height: auto;}
+.title{font-size: 50px;text-align: center;color: blue;}
+.mp{float: right;}
+a:link{text-decoration: none;color: black;}
+a:hover{color: red;text-decoration: underline;}
+.banner{color: black;font-size: 30px;text-align: center;background-image: url(15.jpg);}
+.mbx{font-weight: bolder;}
+.ss{float: right;margin-bottom: 2px;}
+.concent{width: 1000px;height: auto;}
+.left{width: 270px;float: left;margin-left: 150px;font-size: 25px;border:1px solid #f8f5ee;margin-top:  2px;}
+.left ul li{list-style-type: none;}
+.right{width: 720px;float: left;border:1px solid #f8f5ee;background-image: url(9.jpg);font-weight: bolder;color: black;height: 230px;margin-top: 31px;}
+ .ys{margin: 0 auto;margin-left: 50px;color: #522a06;}
+.xys{border:1px solid #c9baa5;width: 20px;height: 20px;display: block;float: left;margin: 5px;color: black;line-height: 20px;color: #522a06;}
+.xys a{color: #522a06;}
+.span{float: right;}
+.cj{color: red;}
+.shang{background-image: url(e.jpg);height: 230px;margin-bottom: 0px;}
+.pl{width: 600px;height: 25px;margin-top: 20px;margin-left: 100px;}
+.bottom{color: white;}

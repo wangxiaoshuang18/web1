@@ -1,0 +1,11 @@
+.left{float: left;}
+.right{float: right;color: red;font-weight: bolder;}
+body{background-color: #efefef;color: #522a06}
+.title{font-size: 50px;text-align: center;color: blue;}
+.mp{float :right;}
+a:link{text-decoration: none;color: black;}
+a:hover{color: red;text-decoration: underline;}
+.banner{color: black;font-size: 30px;text-align: center;background-image: url(15.jpg);}
+.ss{float: right;margin-bottom: 2px;}
+.bottom{color: white;}
+h2{color: green;font-weight: bolder;}
